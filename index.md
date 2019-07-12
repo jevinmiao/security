@@ -4,10 +4,10 @@
 
 [更改登录邮箱](change_email.md)
 
-[修改登录密码](/account/security/change_password)
+[修改登录密码](change_password.md)
 
-[更换绑定手机号码](/account/security/change_phonenumber)
+[更换绑定手机号码](change_phonenumber.md)
 
-[登录保护](/account/security/mfa)
+[登录保护](mfa.md)
 
-[定期更改密码](/account/security/changepasswordsregularly)
+[定期更改密码](changepasswordsregularly.md)
