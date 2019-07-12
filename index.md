@@ -8,6 +8,6 @@
 
 [security/change\_phonenumber](/account/security/change_phonenumber)
 
-[security/mfa](/account/security/mfa)
+[登录保护](/account/security/mfa)
 
 [定期更改密码](/account/security/changepasswordsregularly)
