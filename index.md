@@ -10,4 +10,4 @@
 
 [security/mfa](/account/security/mfa)
 
-[](/account/security/changepasswordsregularly)
+[定期更改密码](/account/security/changepasswordsregularly)
