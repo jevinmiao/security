@@ -2,7 +2,7 @@
 
 {{indexmenu_n>20}}
 
-[更改登录邮箱](/account/security/change_email)
+[更改登录邮箱](change_email.md)
 
 [修改登录密码](/account/security/change_password)
 
